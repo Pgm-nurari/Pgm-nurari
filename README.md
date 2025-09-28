@@ -8,7 +8,7 @@
 
 ## 👀 About Me
 
-- 🐍 I have **5 years of experience** with Python — since school days   
+- 🐍 I have **5 years of experience** with Python   
 - 🎓 Graduated with **BCA in Data Science**, currently pursuing **MCA in AI & DS**  
 - ❤️ Passionate about data, automation, machine learning, and sharing knowledge  
 
