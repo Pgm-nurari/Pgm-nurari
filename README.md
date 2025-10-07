@@ -1,5 +1,8 @@
 <!-- Header / Hero -->
-<h1 align="center">Hi there 👋, I’m SABHYAM MISHRA</h1>
+<h1 align="center">
+  Hi there, I'm Sabhyam Mishra 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+</h1>
 <p align="center">
   👨‍💻 Python Developer | 🎓 BCA Data Science Graduate | 📚 MCA (AI & DS) Student
 </p>
