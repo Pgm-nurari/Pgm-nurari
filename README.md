@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgm-nurari&show_icons=true&theme=dark&locale=en" alt="pgm-nurari" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgm-nurari&theme=dark" alt="pgm-nurari" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pgm-nurari&show_icons=true&theme=dark&locale=en&cache_seconds=1800" alt="Pgm-nurari" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pgm-nurari&theme=dark&cache_seconds=1800" alt="Pgm-nurari" />
 </p>
 
 ---
